@@ -1,0 +1,5 @@
+Features used:
+- Area (hectares)
+- Temperature (°C)
+- Rainfall (mm)
+- Fertilizer (kg)

@@ -1,0 +1,8 @@
+Features used:
+- N (Nitrogen)
+- P (Phosphorus)
+- K (Potassium)
+- Temperature (°C)
+- Humidity (%)
+- pH
+- Rainfall (mm)
